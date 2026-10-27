@@ -6,9 +6,9 @@
   - Backend: `cd backend && npm install && npm start`
   - Frontend: `cd frontend && npm install && npm start`
 - **Links:**
-  - GitHub: [Link GitHub]
-  - Docker Hub Backend: [Link]
-  - Docker Hub Frontend: [Link]
-  - Render App (Frontend): [Link]
-  - Render API (Backend): [Link]
-  - MongoDB Atlas: Đã cấu hình
+  - GitHub: https://github.com/luantruong210305-bit/237630_TruongVanLuan.git
+  - Docker Hub Backend: https://hub.docker.com/r/truongvanluan/backend/tags
+  - Docker Hub Frontend: https://hub.docker.com/r/truongvanluan/frontend/tags
+  - Render App (Frontend): https://web-237630.onrender.com
+  - Render API (Backend): https://api-237630.onrender.com/api/employees
+  - MongoDB Atlas: https://cloud.mongodb.com/v2/6adad4adc167a02d309614ef#/explorer/6adad7be6943e80b2e720111/237630_TruongVanLuan/employees/find
