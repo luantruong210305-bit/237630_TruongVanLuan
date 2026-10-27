@@ -1,5 +1,5 @@
 # Hệ thống Quản lý Nhân sự
-- **Sinh viên:** [Trương Văn Luân] - [237630] - [DH23TIN10]
+- **Sinh viên:** Trương Văn Luân - 237630 - DH23TIN10
 - **Mô tả:** Ứng dụng web quản lý hồ sơ nhân viên sử dụng MERN stack.
 - **Công nghệ:** MongoDB, Express.js, React.js, Node.js, Docker, Render.
 - **Hướng dẫn chạy Local:**
